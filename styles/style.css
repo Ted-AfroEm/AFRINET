@@ -1,0 +1,24 @@
+section{
+    background-color: cadetblue;
+}
+body{
+    background-color: #fdfdff;
+}
+#mission{
+    color: #62929e;
+    font-size: xx-large;
+    text-align: center;
+}
+#serviceCards{
+    text-align: center;
+}
+.main-footer{
+    color: #546a7b;
+}
+
+#footer-text{
+    color: #fdfdff;
+}
+#slogan{
+    text-align: center;
+}
